@@ -1,5 +1,5 @@
 # kafka_basic-project
-Kafka basic project like Food website.
+Kafka basic project like ordering info.
 
 About:   
 Producer: Sends order messages to Kafka topic `orders`.   
