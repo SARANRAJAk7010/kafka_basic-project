@@ -11,7 +11,6 @@ How to run:
 pip3 install confluent-kafka  //It actually makes kafka and python linked.  
 
 docker compose up -d
-<img width="2689" height="782" alt="op" src="https://github.com/user-attachments/assets/99f807b9-ae3c-46cf-83ad-aa491de02728" />
 
 Producer -> kafka -> Consumer
 
